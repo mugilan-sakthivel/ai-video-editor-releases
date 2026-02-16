@@ -2,5 +2,10 @@
   "version": "0.1.2",
   "notes": "Release v0.1.2 - Windows build support and enhanced desktop app",
   "pub_date": "2026-02-16T14:35:00Z",
-  "platforms": {}
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRczRrNk5DWDdFK0M2SHRVbVUyc2ZwTjBzOURTMUNtdGFZUU1XRXRIaVlGaWVhTFdoMlJDVGduS1hZa0hWMVo1UHBPVVUvczV6ZkV6TFdsdW9yQ2lXSTJ3NEpja0FVakFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMjIxOTE4CWZpbGU6QUkgVmlkZW8gRWRpdG9yLmFwcC50YXIuZ3oKZUp2MHF5NmRSdVFtK0lVZExqYWx0ckJIUkZ4cjMrbDh0bUQ1SGdFVnA1TEQrQVpPalpjMkFQQ1NSTi9SR3owamZpdEdkby9DSHN1K0VFTTFmZFllRHc9PQo=",
+      "url": "https://github.com/mugilan-sakthivel/ai-video-editor-releases/raw/main/releases/v0.1.2/AI%20Video%20Editor.app.tar.gz"
+    }
+  }
 }
